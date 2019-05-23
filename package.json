@@ -1,5 +1,5 @@
 {
-  "name": "@NetflixDev/bt-ER-970x250",
+  "name": "@NetflixDev/bt-ER-937x250",
   "version": "2.2.1",
   "description": "C20/Monet-compatible templates that use  https://github.com/ff0000-ad-tech/ad-docs/blob/master/README.md",
   "scripts": {
@@ -27,15 +27,15 @@
     "walk": "^2.3.9"
   },
   "genericSource": {
-    "id": "0367c5ab-f303-4457-9646-6eff86644817",
-    "name": "bt-ER-970x250",
+    "id": "2c94898e-bb7e-4122-ac91-5edd85539027",
+    "name": "bt-ER-937x250",
     "description": "C20/Monet-compatible templates that use  https://github.com/ff0000-ad-tech/ad-docs/blob/master/README.md",
     "type": "build_templates",
     "builder": {
       "label": "970x250 NF Global Template",
       "tier": "endframe-resolve",
-      "size": "970x250",
-      "creative": "./dist/3-traffic/default/970x250",
+      "size": "937x250",
+      "creative": "./dist/3-traffic/default/937x250",
       "toolkit": "./toolkit/970x250_NF_Global_Template_ContainerRecycle_Layered.psd",
       "layouts": {
         "SIDE_BY_SIDE_LEFT": "Side-By-Side Left",
@@ -50,8 +50,8 @@
     "state": "published",
     "updated": 1558654456149,
     "username": "GitHub",
-    "full_name": "NetflixDev/bt-ER-970x250",
-    "html_url": "https://github.com/NetflixDev/bt-ER-970x250",
+    "full_name": "NetflixDev/bt-ER-937x250",
+    "html_url": "https://github.com/NetflixDev/bt-ER-937x250",
     "version": "2.2.1",
     "minimum": "2.2.1"
   }
