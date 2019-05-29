@@ -1,8 +1,7 @@
 {
   "name": "@NetflixDev/bt-ER-937x250",
   "version": "2.2.1",
-  "description":
-    "C20/Monet-compatible templates that use  https://github.com/ff0000-ad-tech/ad-docs/blob/master/README.md",
+  "description": "C20/Monet-compatible templates that use  https://github.com/ff0000-ad-tech/ad-docs/blob/master/README.md",
   "scripts": {
     "c20": "node lib/api.js --cmd track && node lib/api.js --cmd publish"
   },
@@ -30,16 +29,13 @@
   "genericSource": {
     "id": "2c94898e-bb7e-4122-ac91-5edd85539027",
     "name": "bt-ER-937x250",
-    "description":
-      "C20/Monet-compatible templates that use  https://github.com/ff0000-ad-tech/ad-docs/blob/master/README.md",
+    "description": "C20/Monet-compatible templates that use  https://github.com/ff0000-ad-tech/ad-docs/blob/master/README.md",
     "type": "build_templates",
     "builder": {
-      "label": "970x250 NF Global Template",
       "tier": "endframe-resolve",
       "size": "937x250",
       "creative": "./dist/3-traffic/default/937x250",
-      "toolkit":
-        "./toolkit/937x250_NF_Global_Template_ContainerRecycle_Layered.psd",
+      "toolkit": "./toolkit/937x250_NF_Global_Template_ContainerRecycle_Layered.psd",
       "layouts": {
         "SIDE_BY_SIDE_LEFT": "Side-By-Side Left",
         "SIDE_BY_SIDE_OFF_CENTER_LEFT": "Side-By-Side Off-Center Left",
@@ -51,7 +47,7 @@
     },
     "context": "RED Interactive",
     "state": "published",
-    "updated": 1558655834249,
+    "updated": 1559154680281,
     "username": "GitHub",
     "full_name": "NetflixDev/bt-ER-937x250",
     "html_url": "https://github.com/NetflixDev/bt-ER-937x250",
