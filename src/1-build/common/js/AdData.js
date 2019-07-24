@@ -36,4 +36,5 @@ export default function AdData() {
   self.useSupercut = MonetUtils.getDataByKey("Toggle_Supercut");
   self.useRibbon = MonetUtils.getDataByKey("Toggle_Ribbon");
   self.hasTT = !!MonetUtils.getDataByKey("Title_Treatment");
+  self.retinaTT = !!MonetUtils.getDataByKey("Retina_Title_Treatment");
 }

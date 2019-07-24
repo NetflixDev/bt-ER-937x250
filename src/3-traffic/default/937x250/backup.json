@@ -10,6 +10,11 @@
       "id": "Title_Treatment",
       "url": ""
     },
+    "bool.Retina_Title_Treatment": {
+      "type": "bool",
+      "id": "Retina_Title_Treatment",
+      "value": true
+    },
     "text.Tune_In": {
       "type": "text",
       "id": "Tune_In",
