@@ -7,10 +7,10 @@
   "build_source_options": {
     "stub_paths": []
   },
-  "output": "/Users/derek.miranda/Internal/c20/build-templates/bt-ER-937x250",
+  "output": "/Users/derek.miranda/Internal/c20/build-templates-prod/bt-ER-937x250",
   "filters": {},
   "id": "Container 2.0 - 937x250",
-  "bsid": "3c043ef0-f3c9-4ce0-8eaf-6abb3c6a000e",
+  "bsid": "276728de-53d4-49a2-857c-3ed103bc6448",
   "processing": false,
   "error": false
 }
